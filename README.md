@@ -7,8 +7,8 @@ The Better Future application aims to enable cities and local people to build mo
 
 ## Authors
 
-- [@Çağatay Karaman](https://github.com/ckaraman)
 - [@Ahmet Borslan](https://github.com/auto-coder)
+- [@Çağatay Karaman](https://github.com/ckaraman)
 - [@resulbdev](https://github.com/resulbdev)
 - [@ensyldrm0](https://github.com/ensyldrm0)
 ## Deployment
